@@ -7,7 +7,7 @@
 
 <script lang="ts">
 class Msg {
-    public msg: string = 'hello world buildtest';
+    public msg: string = 'hello world build';
     GetMoreMsg(): string{
         return'webpack+vue+typescript+less'
     }
